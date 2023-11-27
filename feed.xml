@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>NAV Documentatie NL</title>
+    <link href="http://mvanaken76.github.io/navdocu/feed.xml" rel="self" />
+    <link href="http://mvanaken76.github.io/navdocu" />
+    <updated>2020-08-03T12:00:51+02:00</updated>
+    <author>
+        <name>Mathias Van Aken</name>
+    </author>
+    <id>http://mvanaken76.github.io/navdocu</id>
+
+    <entry>
+        <title>Aanmelden op Dynamics NAV</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="http://mvanaken76.github.io/navdocu/aanmelden-op-dynamics-nav.html"/>
+        <id>http://mvanaken76.github.io/navdocu/aanmelden-op-dynamics-nav.html</id>
+
+        <updated>2019-06-05T10:01:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Deze bladzijde legt u uit hoe u zich kan aanmelden op Dynamics NAV 2016. U moet over een netwerkaccountbeschikken en door de systeembeheerder van NAV&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>Deze bladzijde legt u uit hoe u zich kan aanmelden op Dynamics NAV 2016. U moet over een netwerkaccountbeschikken en door de systeembeheerder van NAV toegangsrechten gekregen hebben op NAV.</p>
+<p>Via intranet:</p>
+<p><a href="http://leto/sites/intraget/_layouts/15/start.aspx#/SitePages/Home.aspx">http://leto/sites/intraget/_layouts/15/start.aspx#/SitePages/Home.aspx</a></p>
+<p>Applicatie links &gt; Dynamics NAV 2016</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/18/Image-007.jpg" alt="" width="951" height="356" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-007-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-007-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-007-md.jpg 749w"></figure>
+<p>Negeer eventuele foutmeldingen:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/18/Image-008.jpg" alt="" width="1234" height="637" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-008-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-008-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-008-md.jpg 749w"></figure>
+<p>Dit brengt u uiteindelijk op de volgende bladzijde:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/18/Image-009.jpg" alt="" width="932" height="446" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-009-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-009-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-009-md.jpg 749w"></figure>
+<p><a href="https://remoteapp.primion-group.com/RDWeb/Pages/en-us/login.aspx">https://remoteapp.primion-group.com/RDWeb/Pages/en-us/login.aspx</a></p>
+<p>Breng uw gebruikersnaam en wachtwoord op de volgende wijze in:</p>
+<ul>
+<li>guernica\mak</li>
+<li>(uw Windows wachtwoord)</li>
+</ul>
+<p>Selecteer de databank "TEST NAVISION primion":</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/18/Image-010.jpg" alt="" width="950" height="462" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-010-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-010-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-010-md.jpg 749w"></figure>
+<p>Lanceer het neergeladen RDP-bestand als dat niet automatisch gebeurt:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/18/Image-011.jpg" alt="" width="265" height="68" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-011-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-011-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-011-md.jpg 749w"></figure>
+<p>Klik "Verbinden":</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/18/Image-012.jpg" alt="" width="796" height="460" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-012-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-012-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-012-md.jpg 749w"></figure>
+<p>Klik hier "Ja":</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/18/Image-015.jpg" alt="" width="574" height="320" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-015-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-015-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/18/responsive/Image-015-md.jpg 749w"></figure>
+<p>Je kan deze waarschuwing vermijden door in de applicatie eenmaal het blauwe vierkantje aan te klikken en bij 'Select server' op 'OK' te klikken:</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="http://mvanaken76.github.io/navdocu/media/posts/18/gallery/Image-001.jpg" data-size="839x490"><img loading="lazy" src="http://mvanaken76.github.io/navdocu/media/posts/18/gallery/Image-001-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://mvanaken76.github.io/navdocu/media/posts/18/gallery/Image-002.jpg" data-size="853x613"><img loading="lazy" src="http://mvanaken76.github.io/navdocu/media/posts/18/gallery/Image-002-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hoe kopieer ik een offerte van CRM naar NAV?</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="http://mvanaken76.github.io/navdocu/hoe-kopieer-ik-een-offerte-van-crm-naar-nav.html"/>
+        <id>http://mvanaken76.github.io/navdocu/hoe-kopieer-ik-een-offerte-van-crm-naar-nav.html</id>
+
+        <updated>2019-03-01T14:07:20+01:00</updated>
+            <summary>
+                <![CDATA[
+                    In CRM: zorg ervoor dat de offerte die je wil kopiëren, de status "Besteld" heeft: In NAV zoek naar scherm: Microsoft Dynamics CRM Quotes Navigatie:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In CRM: zorg ervoor dat de offerte die je wil kopiëren, de status "Besteld" heeft:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/1/besteld.jpg" alt="" width="1236" height="576" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/1/responsive/besteld-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/besteld-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/besteld-md.jpg 749w"></figure>
+<p>In NAV zoek naar scherm: Microsoft Dynamics CRM Quotes</p>
+<p>Navigatie: Departments/Sales &amp; Marketing/Microsoft Dynamics CRM/Microsoft Dynamics CRM Quotes</p>
+<p>Selecteer de offerte die u wil omzetten in een project, en klik op "Create NAV Quote":</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/1/Image-005_.jpg" alt="" width="1248" height="483" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-005_-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-005_-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-005_-md.jpg 749w"></figure>
+<p>Er komt een vraag:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/1/Image-005.jpg" alt="" width="440" height="143" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-005-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-005-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-005-md.jpg 749w"></figure>
+<p>Er werden goederen en diensten gevonden in de offerte. Het systeem stelt daarom voor een Job (=project) te maken. Klik op Yes.</p>
+<p>Als alles in orde is, wordt er een Job gecreëerd in status "Quote" en zal dit projectscherm zich vanzelf openen.</p>
+<p>Er kunnen problemen optreden, met name:</p>
+<ul>
+<li>De klant is nog niet gekend in NAV. Oplossing: <a href="http://mvanaken76.github.io/navdocu/hoe-maak-ik-een-nieuwe-klant-aan.html">maak eerst de klant aan</a>.</li>
+<li>Er staan producten op de offerte die niet gekend zijn in NAV. Dit is een technisch probleem. Contacteer uw systeembeheerder.</li>
+</ul>
+<p>Om ervoor te zorgen dat te lijst van mogelijk om te zetten projecten niet eindeloos langer wordt, is het aangewezen om de status van de CRM-offerte aan te passen naar "Bevestigd". Dit gaat zo:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/1/Image-008.jpg" alt="" width="1158" height="506" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-008-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-008-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-008-md.jpg 749w"></figure>
+<p>Een offerte in status "Bevestigd" verschijnt niet meer in de lijst van om te zetten projecten.</p>
+<p>Het is niet mogelijk om per ongeluk een offerte 2x om te zetten. Wanneer je een reeds omgezette offerte tracht om te zetten, zal het systeem vragen of het reeds bestaande project mag geopend worden:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/1/Image-009.jpg" alt="" width="458" height="162" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-009-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-009-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-009-md.jpg 749w"></figure>
+<p>Om de kopie van CRM naar NAV te vervolledigen, moet in NAV nog aangegeven worden wie er toegang zal hebben tot het project. Ga hiertoe naar het tabje "Authorized Users" en selecteer de persoon die het project in eerste instantie zal moeten opvolgen. Dit is typisch (maar niet altijd) het hoofd van de projectleiders, aangezien deze een projectleider zal moeten aanduiden:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/1/Image-010.jpg" alt="" width="827" height="160" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-010-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-010-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/1/responsive/Image-010-md.jpg 749w"></figure>
+<p>Belangrijk: kies de persoon door het invullen van de initialen in het veld "Resource No.". De velden User ID en User Name zullen zich vanzelf invullen.</p>
+<p>Op dit punt is het werk van de administratieve verkoopsassistente afgelopen.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hoe maak ik een nieuwe klant aan?</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="http://mvanaken76.github.io/navdocu/hoe-maak-ik-een-nieuwe-klant-aan.html"/>
+        <id>http://mvanaken76.github.io/navdocu/hoe-maak-ik-een-nieuwe-klant-aan.html</id>
+
+        <updated>2019-03-01T14:06:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Wanneer je bij het kopiëren van CRM naar NAV vaststelt dat de klant nog niet bestaat in CRM, dient deze eerst gemaakt te worden. Enkel&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Wanneer je bij het kopiëren van CRM naar NAV vaststelt dat de klant nog niet bestaat in CRM, dient deze eerst gemaakt te worden.</p>
+<p>Enkel indien een adres een eigen BTW-code heeft (facturatieadres), wordt een nieuwe klant aangemaakt. Als het enkel een leveringsadres betreft, voegen we dit toe als "Ship To"-address bij een bestaande klant.</p>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1d4skatug0">General</a></li>
+<li><a href="#mcetoc_1d4skqjkl1">Communication</a></li>
+<li><a href="#mcetoc_1d4skup3f2">Invoicing</a></li>
+<li><a href="#mcetoc_1d4slchcs0">Payments</a></li>
+<li><a href="#mcetoc_1d4sleh7k1">Andere</a></li>
+<li><a href="#mcetoc_1d4slg6eh2">Navigate &gt; Ship-to Addresses</a></li>
+</ul>
+</div>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/4/Image-016.jpg" alt="" width="455" height="181" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-016-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-016-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-016-md.jpg 749w"></figure>
+<p>Navigeer naar de lijst "Customers"</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/4/Image-017.jpg" alt="" width="804" height="350" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-017-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-017-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-017-md.jpg 749w"></figure>
+<p>Klik op New om een nieuwe klant aan te maken.</p>
+<p>Vul alle nodige velden in:</p>
+<h3 id="mcetoc_1d4skatug0">General</h3>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/4/Image-018.jpg" alt="" width="1181" height="390" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-018-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-018-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-018-md.jpg 749w"></figure>
+<ul>
+<li>No.
+<ul>
+<li>We respecteren de volgende conventies:
+<ul>
+<li>Een code van 4 cijfers, bv. 0008. Nummers gaan van 0000 tot 9999.</li>
+<li>Als het een facturatieadres betreft (=andere BTW-code), dan krijgt het nummer de vorm 0030F03. Nummers gaan van 01..99.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Name, Name 2, Address, Address 2, Post Code, City, Country/Region, Phone No.
+<ul>
+<li>Vul deze velden zo correct en volledig mogelijk in.</li>
+</ul>
+</li>
+<li>CRM Code
+<ul>
+<li>Via dit veld leg je de koppeling tussen de klant in NAV en de firma in CRM.</li>
+<li>Als dit veld niet is ingevuld, kan je geen offertes naar NAV kopiëren voor deze klant.</li>
+</ul>
+</li>
+<li>Enterprise No.
+<ul>
+<li>Hier vul je voor Belgische klanten het BTW nummer in.</li>
+<li>Voor Belgische klanten mag het veld VAT Registration No. nooit ingevuld worden.</li>
+</ul>
+</li>
+</ul>
+<h3 id="mcetoc_1d4skqjkl1">Communication</h3>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/4/Image-019.jpg" alt="" width="1176" height="122" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-019-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-019-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-019-md.jpg 749w"></figure>
+<ul>
+<li>Vul de velden in waar mogelijk.</li>
+</ul>
+<h3 id="mcetoc_1d4skup3f2">Invoicing</h3>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/4/Image-020.jpg" alt="" width="1086" height="237" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-020-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-020-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-020-md.jpg 749w"></figure>
+<p>Belangrijkste velden:</p>
+<ul>
+<li> Bill-to Customer No.
+<ul>
+<li>Invullen indien de facturen naar een andere klant (d.w.z. een facturatieadres van de vorm 0000F01) moeten gestuurd worden.</li>
+</ul>
+</li>
+<li>VAT Registration No
+<ul>
+<li>Enkel te gebruiken voor buitenlandse klanten. Bij Belgische klanten gebruik je het veldje Enterprise No.</li>
+</ul>
+</li>
+<li>Gen. Bus. Posting Group
+<ul>
+<li>Kies tussen
+<ul>
+<li>Domestic: België</li>
+<li>EU</li>
+<li>Foreign: buiten UE</li>
+<li>Interco: binnen de Azkoyen groep, tenzij Azkoyen zelf</li>
+<li>Azkoyen</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>VAT Bus. Posting Group
+<ul>
+<li>Kies tussen
+<ul>
+<li>BINN: België</li>
+<li>IC: binnen de EU</li>
+<li>IMP: buiten de EU</li>
+<li>MC: meestal medecontractant</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Customer Posting Group
+<ul>
+<li>Hier vul je hetzelfde in als bij Gen. Bus. Posting Group</li>
+</ul>
+</li>
+</ul>
+<h3 id="mcetoc_1d4slchcs0">Payments</h3>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/4/Image-021.jpg" alt="" width="1076" height="231" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-021-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-021-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-021-md.jpg 749w"></figure>
+<p>Belangrijkste velden:</p>
+<ul>
+<li>Payment Terms Code</li>
+<li>Payment Method Code</li>
+</ul>
+<h3 id="mcetoc_1d4sleh7k1">Andere</h3>
+<p>De tabjes Shipping en Foreign Trade moet je meestal niet invullen</p>
+<h3 id="mcetoc_1d4slg6eh2">Navigate &gt; Ship-to Addresses</h3>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/4/Image-022.jpg" alt="" width="589" height="334" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-022-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-022-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-022-md.jpg 749w"></figure>
+<ul>
+<li>Elke nieuwe klant krijgt ook minstens één "Ship to"-code, het adres van de hoofdzetel.</li>
+<li>Afspraken qua nummering:
+<ul>
+<li>Hoofdzetel steeds van de vorm 0114L00 ('L' met 2 nullen op het einde)</li>
+<li>Aanvullende leveradressen krijgen de vorm 0142L010 ('L' met 3 cijfers)</li>
+</ul>
+</li>
+<li>Vul voor het leveradres alle nodig adresvelden in.</li>
+<li>Een leveradres kan ook gekoppeld worden aan een firma in CRM. Wanneer een offerte dan gemaakt wordt op een leveradres, zal de interface de correcte klant gaan opzoeken en het project aanmaken op hoofdklant en opgegeven leveradres.</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/4/Image-023.jpg" alt="" width="1057" height="438" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-023-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-023-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/4/responsive/Image-023-md.jpg 749w"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hoe stel ik een projectteam samen?</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="http://mvanaken76.github.io/navdocu/hoe-stel-ik-een-projectteam-samen.html"/>
+        <id>http://mvanaken76.github.io/navdocu/hoe-stel-ik-een-projectteam-samen.html</id>
+
+        <updated>2019-03-01T13:31:45+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Opname in het projectteam betekent dat je aanpassingen mag maken aan het project: welke goederen en diensten worden er geleverd, leveradressen, enz. Men hoeft niet&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Opname in het projectteam betekent dat je aanpassingen mag maken aan het project: welke goederen en diensten worden er geleverd, leveradressen, enz. Men hoeft niet in het projectteam te zitten om uren te kunnen registreren op het project.<br>
+<ul>
+<li> Wie?
+<ul>
+<li>Administratieve verkoopsassistente</li>
+<li>Hoofd van projectleiders</li>
+<li>Projectleiders</li>
+</ul>
+</li>
+<li>Hoe?
+<ul>
+<li>Open het project</li>
+<li>In het tabje "Authorized users" duid je de mensen aan die schrijftoegang moeten krijgen tot het project.</li>
+<li>Geef hun rol in het project aan: IC, IE, PL</li>
+<li>Kies de persoon door het invullen van de initialen in het veld "Resource No.". De velden User ID en User Name zullen zich vanzelf invullen.</li>
+</ul>
+</li>
+</ul>
+<figure class="post__image"> <img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/2/Image-010.jpg" alt="" width="827" height="160" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/2/responsive/Image-010-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/2/responsive/Image-010-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/2/responsive/Image-010-md.jpg 749w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hoe maak ik een project klaar voor uitvoering?</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="http://mvanaken76.github.io/navdocu/hoe-maak-ik-een-project-klaar-voor-uitvoering.html"/>
+        <id>http://mvanaken76.github.io/navdocu/hoe-maak-ik-een-project-klaar-voor-uitvoering.html</id>
+
+        <updated>2020-01-29T08:41:59+01:00</updated>
+            <summary>
+                <![CDATA[
+                    In het projectscherm moet de projectleider enkele algemene controles uitvoeren om het project klaar te maken voor uitvoering. We geven een overzicht per tabje. Deze&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In het projectscherm moet de projectleider enkele algemene controles uitvoeren om het project klaar te maken voor uitvoering. We geven een overzicht per tabje.</p>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1d4sej3qq0">General</a></li>
+<li><a href="#mcetoc_1d4sek6qo1">Authorized users</a></li>
+<li><a href="#mcetoc_1d4sel6t92">Duration</a></li>
+<li><a href="#mcetoc_1d4sid9k03">Main Address</a></li>
+<li><a href="#mcetoc_1d4sik5mf4">Building Site</a></li>
+<li><a href="#mcetoc_1d4simmnj5">Workflow</a></li>
+</ul>
+</div>
+<h3 id="mcetoc_1d4sej3qq0">General</h3>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/3/Image-013.jpg" alt="" width="1108" height="335" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-013-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-013-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-013-md.jpg 749w"></figure>
+Controleer de informatie die vanuit CRM is gekomen en verbeter waar nodig.<br>
+<h3 id="mcetoc_1d4sek6qo1">Authorized users</h3>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/3/Image-012.jpg" alt="" width="539" height="140" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-012-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-012-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-012-md.jpg 749w"></figure>
+Indien dit reeds duidelijk is, kunnen hier IC en IE aangeduid worden<br>
+<h3 id="mcetoc_1d4sel6t92">Duration</h3>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/3/Image-011.jpg" alt="" width="585" height="145" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-011-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-011-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-011-md.jpg 749w"></figure>
+<p>Deze veldjes gaan over geplande opleveringstermijnen en zullen o.m. de aankoopafdeling aansturen.</p>
+<ul>
+<li>Creation date
+<ul>
+<li>aanmaakdatum</li>
+<li>ingevuld door het systeem en niet wijzigbaar.</li>
+</ul>
+</li>
+<li>Starting date
+<ul>
+<li>Wanneer de werken zullen aanvangen</li>
+</ul>
+</li>
+<li>Planning date
+<ul>
+<li>De datum waarop we plannen de goederen en diensten te leveren, zoals meegedeeld door <span style="text-decoration: underline;">de leverancier</span></li>
+<li>Het veld wordt ingevuld op het niveau van projecthoofding en om door te kopiëren naar de lijnen. Elke lijn kan vervolgens een andere plandatum krijgen</li>
+</ul>
+</li>
+<li>Exp. Plan date
+<ul>
+<li>Aanvankelijk dezelfde als Planning datum</li>
+<li>Het is de datum waarop we aan <span style="text-decoration: underline;">de klant</span> beloofd hebben te goederen en diensten te zullen leveren</li>
+<li>Wanneer er leveringsproblemen zouden zijn op niveau van de toeleverancier, dient deze datum als referentiepunt, om te weten wat wij aan de klant beloofd hebben.</li>
+<li>Bij leveringsproblemen, na akkoord van de klant, kan deze datum bijgewerkt worden.</li>
+<li>Ending date: the date we plan to finish the project</li>
+</ul>
+</li>
+<li>End Date
+<ul>
+<li>Geplande einddatum van het project</li>
+</ul>
+</li>
+<li>Acceptance date
+<ul>
+<li>De datum waarop de klant heeft afgetekend voor oplevering.</li>
+<li>Kan op dit ogenblik nog niet ingevuld worden</li>
+</ul>
+</li>
+<li>Expected invoice date
+<ul>
+<li>De datum waarop de klant de finale factuur moet krijgen.</li>
+</ul>
+</li>
+</ul>
+<h3 id="mcetoc_1d6d2c5go0">Posting</h3>
+<p>Er zijn twee mogelijkheden: grote projecten en kleine projecten.</p>
+<ul>
+<li>Grote projecten (meer dan 20k EUR)
+<ul>
+<li>Job Posting Group: <strong>HGB</strong></li>
+<li>WIP Method: <strong>HGB</strong></li>
+<li>Job Posting Group 2nd: <strong>IFRS</strong></li>
+<li>WIP Method 2: <strong>POC</strong></li>
+</ul>
+</li>
+<li>Kleine projecten (minder dan 20k EUR)
+<ul>
+<li>Job Posting Group: <strong>&lt;20T</strong></li>
+<li>WIP Method: <strong>NPOC</strong></li>
+<li>Job Posting Group 2nd: (leeg laten)</li>
+<li>WIP Method 2: (leeg laten)</li>
+</ul>
+</li>
+</ul>
+<p>Als je het moeilijk vindt om deze combinaties te onthouden, is er een knop die u helpt bij het invullen van de velden. Ga naar de lijst met projecten, selecteer uw project en kies in het tabblad Actions de gewenste optie:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/3/Image-005.jpg" alt="" width="715" height="333" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-005-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-005-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-005-md.jpg 749w"></figure>
+<ul>
+<li>Grote projecten (&gt;20k EUR): Set POC</li>
+<li>Kleinere projecten (&lt;20k EUR): Set NPOC</li>
+</ul>
+<h3 id="mcetoc_1d4sid9k03">Main Address</h3>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/3/Image-014.jpg" alt="" width="1044" height="148" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-014-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-014-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-014-md.jpg 749w"></figure>
+<p>Hier kan eventueel een andere leveradres ingevuld worden indien dit relevant zou zijn.</p>
+<h3 id="mcetoc_1d4sik5mf4">Building Site</h3>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/3/Image-015.jpg" alt="" width="1100" height="140" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-015-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-015-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/3/responsive/Image-015-md.jpg 749w"></figure>
+<p>Hier kan eventueel het werfadres ingegeven worden, indien verschillend van bovenstaande adressen.</p>
+<h3 id="mcetoc_1d4simmnj5">Workflow</h3>
+<p>Met de velden in dit tabje kunnen de verschillende betrokken medewerkers ingeven waar zij staan, wat vanuit hun standpunt de status is van het project. De gemaakte keuzes worden bijgehouden in een logboek en sturen "stoplichten" aan in de projectlijst. Per 20/5/2019 zijn er hier nog geen statusaanpassingen te doen bij opstart van het project.</p>
+<h3 id="mcetoc_1d4sk037k0">Andere tabs</h3>
+<p>De tabs Foreign Trade, WIP 1 en WIP 2 dienen niet aangepast te worden.</p>
+<h3 id="mcetoc_1djr4ngtc0">Dimensies</h3>
+<p>Gelieve bij aanmaak van een project steeds bij de dimensie "SALES TYPE" de waarde "PROJECT" in te geven. Dit doet u zo:</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="http://mvanaken76.github.io/navdocu/media/posts/3/gallery/Image-006.jpg" data-size="612x221"><img loading="lazy" src="http://mvanaken76.github.io/navdocu/media/posts/3/gallery/Image-006-thumbnail.jpg" alt="" width="240" height="221"></a></figure>
+<figure class="gallery__item"><a href="http://mvanaken76.github.io/navdocu/media/posts/3/gallery/Image-007.jpg" data-size="733x532"><img loading="lazy" src="http://mvanaken76.github.io/navdocu/media/posts/3/gallery/Image-007-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="http://mvanaken76.github.io/navdocu/media/posts/3/gallery/Image-008.jpg" data-size="429x311"><img loading="lazy" src="http://mvanaken76.github.io/navdocu/media/posts/3/gallery/Image-008-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hoe zet ik projectartikelen om?</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="http://mvanaken76.github.io/navdocu/hoe-zet-ik-projectartikelen-om.html"/>
+        <id>http://mvanaken76.github.io/navdocu/hoe-zet-ik-projectartikelen-om.html</id>
+
+        <updated>2020-01-29T13:49:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Vooraleer een project van de status "Quote" naar "Order" kan gaan, moeten alle zgh. 'Write-in items' omgezet worden naar echte artikelen of resources. Artikelen en&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Vooraleer een project van de status "Quote" naar "Order" kan gaan, moeten alle zgh. 'Write-in items' omgezet worden naar echte artikelen of resources.</p>
+<p>Artikelen en resources worden aangemaakt door de hiertoe bevoegde afdeling, na voorlegging van de nodige documentatie (cataloog, offerte,...), en volgens processen die gelijkaardig zijn aan de processen. De aanmaak van deze artikelen wordt daarom niet hier beschreven.</p>
+<p>Resources zijn in principe herbruikbaar. Het betreft bv. uurtarieven van bekabelaars.</p>
+<h3>(Job) Home &gt; Primion &gt; Write-In Items</h3>
+<p>In te vullen velden:</p>
+<ul>
+<li>New Type
+<ul>
+<li>Wordt het een artikel ('Item') of een resource ('Resource')?</li>
+</ul>
+</li>
+<li>New No.
+<ul>
+<li>Het artikel of de resource die de Write-in lijn moet vervangen</li>
+</ul>
+</li>
+</ul>
+<p>Klik vervolgens op "Change Item" om de substitutie door te voeren.</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/5/Image-024_.jpg" alt="" width="755" height="325" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-024_-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-024_-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-024_-md.jpg 749w"></figure>
+<h3>Resources: splits aankoop- en verkooplijnen</h3>
+<p>Offertes van externe dienstverleners vermelden vaak een algemeen tarief per uur of per eenheid, waarbij het niet bij voorbaat duidelijk is hoeveel de uiteindelijke factuur zal bedragen, na uitvoering van de werken.</p>
+<p>In dergelijke gevallen werken we met 'Resources' in plaats van 'Artikelen' (Items). We splitsen de lijn dan op in 2 lijnen:</p>
+<ul>
+<li>Type "Contract": wat wij factureren aan de klant</li>
+<li>Type "Schedule": wat de leverancier aan ons factureert</li>
+</ul>
+<p>De lijn met type <strong>Contract</strong> zal bevatten:</p>
+<ul>
+<li>Hoeveelheid: altijd 1 (nl. 1 offerte van de leverancier). Eventuele relevante aantallen kan men in de beschrijving noteren </li>
+<li>Kostprijs per eenheid: kostprijs zoals oorspronkelijk ingeschat in CRM</li>
+<li>Verkoopprijs per eenheid: wat we de klant effectief zullen factureren</li>
+</ul>
+<p>De lijn met type <strong>Schedule</strong> zal bevatten:</p>
+<ul>
+<li>Hoeveelheid: met dit veld manipuleren we de effectieve kostprijs (EUR!!)</li>
+<li>Kostprijs per eenheid: altijd 1 EUR.</li>
+<li>Verkoopprijs per eenheid: heeft eigenlijk geen belang. Het best plaatst men hier VKP / AKP</li>
+</ul>
+<p>De opsplitsing gebeurt als volgt:</p>
+<p>Zoek het op te splitsen nummer via Job Task Lines &gt; Job Planning Lines</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/5/Image-005.jpg" alt="" width="1068" height="418" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-005-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-005-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-005-md.jpg 749w"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/5/Image-006.jpg" alt="" width="1104" height="478" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-006-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-006-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-006-md.jpg 749w"></figure>
+<p>Selecteer de te ontdubbelen lijn door uiterst links met de rechtermuisknop te klikken en selecteer "Copy Rows":</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/5/Image-007.jpg" alt="" width="1323" height="265" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-007-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-007-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-007-md.jpg 749w"></figure>
+<p>Maak vervolgens ruimte voor een nieuwe lijn door in dezelfde menu "New Line" te selecteren:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/5/Image-008.jpg" alt="" width="566" height="243" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-008-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-008-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-008-md.jpg 749w"></figure>
+<p>Selecteer vervolgens de nieuwe, lege lijn, en plak de gekopieerde lijn met "Paste Rows":</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/5/Image-009.jpg" alt="" width="879" height="243" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-009-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-009-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-009-md.jpg 749w"></figure>
+<p>Kies een reden uit voor de wijziging, nl. "Eerste invoer":</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/5/Image-010.jpg" alt="" width="791" height="330" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-010-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-010-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-010-md.jpg 749w"></figure>
+<p>Definieer nu de ene lijn als "Contract", de andere als "Schedule":</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/5/Image-011.jpg" alt="" width="788" height="78" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-011-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-011-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-011-md.jpg 749w"></figure>
+<p>Wissel nu in de Schedule-lijn de velden "Quantity" en "Unit Cost" om:</p>
+<p>Voor:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/5/Image-012.jpg" alt="" width="1243" height="166" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-012-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-012-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-012-md.jpg 749w"></figure>
+<p>Na:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/5/Image-013.jpg" alt="" width="1245" height="131" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-013-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-013-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/5/responsive/Image-013-md.jpg 749w"></figure>
+<p>Zo gewenst, kan er reeds dadelijk een bestelbon worden aangemaakt. Zie hiervoor <a href="http://mvanaken76.github.io/navdocu/hoe-bestel-ik-projectartikelen.html">Hoe bestel ik projectartikelen?</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hoe start ik het project op?</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="http://mvanaken76.github.io/navdocu/hoe-start-ik-het-project.html"/>
+        <id>http://mvanaken76.github.io/navdocu/hoe-start-ik-het-project.html</id>
+
+        <updated>2019-03-07T15:40:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Een project starten betekent de status van het project wijzigen van 'Quote' naar 'Order'. Vanaf dit moment kunnen er bestellingen geplaatst worden, kunnen er uren&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Een project starten betekent de status van het project wijzigen van 'Quote' naar 'Order'. Vanaf dit moment kunnen er bestellingen geplaatst worden, kunnen er uren geregistreerd worden enz.</p>
+<h3>(Job) Home &gt; Primion &gt; Convert to order</h3>
+<p>Wanneer er geen Write-in Items meer zijn, kan men via dit knopje de status van het project aanpassen naar "Order".</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/6/Image-025.jpg" alt="" width="942" height="285" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/6/responsive/Image-025-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/6/responsive/Image-025-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/6/responsive/Image-025-md.jpg 749w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hoe budgetteer ik de te leveren prestaties?</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="http://mvanaken76.github.io/navdocu/hoe-budgetteer-ik-de-te-leveren-prestaties.html"/>
+        <id>http://mvanaken76.github.io/navdocu/hoe-budgetteer-ik-de-te-leveren-prestaties.html</id>
+
+        <updated>2019-03-01T15:05:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Om diensten te kunnen inplannen, moet er eerst een budget opgesteld worden van te leveren prestaties per werktype. Dit gaat als volgt. BELANGRIJK! Wanneer je uren&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Om diensten te kunnen inplannen, moet er eerst een budget opgesteld worden van te leveren prestaties per werktype. Dit gaat als volgt.</p>
+<h3>Navigate &gt; Planning actions &gt; Plan hours</h3>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/7/Image-026.jpg" alt="" width="1433" height="828" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-026-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-026-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-026-md.jpg 749w"></figure>
+<ul>
+<li>Het bovenste deel van het scherm toont de verkochte diensten</li>
+<li>In het onderste deel moet de projectleider opgeven wat hij werkelijk denkt nodig te hebben</li>
+</ul>
+<p>BELANGRIJK! Wanneer je uren ingeeft, zorg er dan voor dan in het bovenste deel van het scherm de bovenste lijn (HOURPLAN) is geselecteerd.</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/7/Image-028.jpg" alt="" width="791" height="192" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-028-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-028-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-028-md.jpg 749w"></figure>
+<p>Het tijdsbudget dient ingegeven te worden in de kolom "New quantity"</p>
+<p>Resources worden gewoonlijk verkocht in dagen of halve dagen maar de inschatting van te leveren prestaties geschiedt in uren. Om de projectleider te helpen bij de omzetting van verkochte uren naar te leveren uren, krijgt hij in het informatiedeelscherm rechts per werktype een overzicht in uren:</p>
+<ul>
+<li>Gepland</li>
+<li>Gepresteerd</li>
+<li>Verkocht</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/7/Image-029.jpg" alt="" width="391" height="266" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-029-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-029-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-029-md.jpg 749w"></figure>
+<p>De conversie van dagen / halve dagen naar uren kan gemanipuleerd worden via de kolom "Hours per" in het bovenste deel van het scherm</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/7/Image-030.jpg" alt="" width="758" height="262" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-030-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-030-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-030-md.jpg 749w"></figure>
+<p>Wanneer hij hiermee klaar is, kan de projectleider het vinkje “Time planning processed” aanvinken in het projectscherm bij het tabje "Workflow".</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/7/Image-031.jpg" alt="" width="521" height="196" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-031-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-031-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/7/responsive/Image-031-md.jpg 749w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hoe volg ik mijn project op?</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="http://mvanaken76.github.io/navdocu/hoe-volg-ik-mijn-project-op.html"/>
+        <id>http://mvanaken76.github.io/navdocu/hoe-volg-ik-mijn-project-op.html</id>
+
+        <updated>2020-08-03T12:00:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Om in één oogopslag een overzicht te krijgen van het hele project, werd een speciaal scherm gebouwd, met de naam "Primion Task Line". Het scherm&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Om in één oogopslag een overzicht te krijgen van het hele project, werd een speciaal scherm gebouwd, met de naam "Primion Task Line". Het scherm bevat 5 tabs.</p>
+<h3>Tab Job Task Lines</h3>
+<ul>
+<li>Dit zijn de grote blokken van het project, bv. hardware, software...</li>
+<li>Deze structuur komt mee vanuit CRM</li>
+<li>De bovenste lijn "00 Not related" is een dummyhoofding waar alle geplande en gepresteerde diensten verzameld worden.</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/8/Image-032.jpg" alt="" width="797" height="235" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-032-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-032-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-032-md.jpg 749w"></figure>
+<h3>Cost fasttabs</h3>
+<p>In het kader van de oplevering van een project, zal de projectleider het meest geïnteresseerd zijn in de "Cost" fasttabs. Hij kan er bv. betreffende goederen deze informatie terugvinden:</p>
+<ul>
+<li>Hoeveel is er verkocht?</li>
+<li>Hoeveel is er besteld?</li>
+<li>Hoeveel is er aanwezig in het magazijn en gereserveerd voor het project?</li>
+<li>Hoeveel ligt er in QC?</li>
+<li>Hoeveel is er opgeleverd?</li>
+</ul>
+<p>Via dit scherm zal hij ook opdrachten kunnen geven, bv.</p>
+<ul>
+<li>Om een artikel naar QC (=projectbin) te verplaatsen (kolom Qty. to transfer to Journal).</li>
+<li>Om aan te geven dat een artikel eventueel niet naar de klant moet gaan, maar naar een onderaannemer of naar een bepaald werfadres (Send To Code)</li>
+<li>Om een levering te registreren (Functions &gt; Create Delivery Note)</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/8/Image-035.jpg" alt="" width="1170" height="192" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-035-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-035-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-035-md.jpg 749w"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/8/Image-036.jpg" alt="" width="1154" height="177" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-036-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-036-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-036-md.jpg 749w"></figure>
+<h4>Task Cost</h4>
+<ul>
+<li>Voor de geselecteerde task, toont dit onderdeel de lijnen die moeten geleverd worden, dus van het type "Schedule" en "Schedule &amp; Contract"</li>
+</ul>
+<h4>Task sales</h4>
+<ul>
+<li>Voor de geselecteerde task, toont dit onderdeel de lijnen die verkocht werden, dus van het type "Contract" en "Schedule &amp; Contract"</li>
+</ul>
+<h4>Project Cost</h4>
+<ul>
+<li>Voor het hele project, toont dit onderdeel de lijnen die moeten geleverd worden, dus van het type "Schedule" en "Schedule &amp; Contract"</li>
+</ul>
+<h4>Project Sales</h4>
+<ul>
+<li>Voor het hele project, toont dit onderdeel de lijnen die verkocht werden, dus van het type "Contract" en "Schedule &amp; Contract"</li>
+</ul>
+<h3>Scherm aanpassen</h3>
+<p>Als de projectleider vindt dat dit scherm te druk is of hij bepaalde tabs vaak gebruikt en andere nooit, is het mogelijk om bepaalde van deze tabs te verbergen. Dit doet u zo:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/8/Image-033.jpg" alt="" width="676" height="361" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-033-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-033-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-033-md.jpg 749w"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/8/Image-034.jpg" alt="" width="736" height="191" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-034-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-034-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/8/responsive/Image-034-md.jpg 749w"></figure>
+<h3>Wie heeft mijn project aangepast?</h3>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="http://mvanaken76.github.io/navdocu/media/posts/8/gallery/Image-006.jpg" data-size="751x372"><img loading="lazy" src="http://mvanaken76.github.io/navdocu/media/posts/8/gallery/Image-006-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption>Job task lines</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://mvanaken76.github.io/navdocu/media/posts/8/gallery/Image-007.jpg" data-size="1139x528"><img loading="lazy" src="http://mvanaken76.github.io/navdocu/media/posts/8/gallery/Image-007-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption>Job planning lines</figcaption>
+</figure>
+<figure class="gallery__item"><a href="http://mvanaken76.github.io/navdocu/media/posts/8/gallery/Image-008.jpg" data-size="1916x669"><img loading="lazy" src="http://mvanaken76.github.io/navdocu/media/posts/8/gallery/Image-008-thumbnail.jpg" alt="" width="240" height="240"></a>
+<figcaption>CardPart Reason</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hoe lever ik goederen?</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="http://mvanaken76.github.io/navdocu/hoe-lever-ik-goederen.html"/>
+        <id>http://mvanaken76.github.io/navdocu/hoe-lever-ik-goederen.html</id>
+
+        <updated>2019-03-01T16:57:01+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Wat volgt, is grosso modo van toepassing op alle goederen die we leveren in de ruime betekenis van het woord: hardware, software, projectartikelen en externe diensten. Door GET&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Wat volgt, is grosso modo van toepassing op alle goederen die we leveren in de ruime betekenis van het woord: hardware, software, projectartikelen en externe diensten. Door GET geleverde prestaties volgen een ander proces.</p>
+<div class="post__toc">
+<h3>Overzicht</h3>
+<ul>
+<li><a href="#mcetoc_1d4st0bdd0">Procesoverzicht</a>
+<ul>
+<li><a href="#mcetoc_1d4std06k1">PL communiceert behoeften aan aankoop</a></li>
+<li><a href="#mcetoc_1d4stdp7j2">Aankoop voorziet de materialen</a></li>
+<li><a href="#mcetoc_1d4stqvoo3">Artikels worden opgenomen</a></li>
+<li><a href="#mcetoc_1d4sts41k4">Artikels worden geleverd</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p>Het scherm bij uitstek om dit op te volgen, is "Primion Task Line", ook toegankelijk vanaf de projectenlijst:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-037.jpg" alt="" width="952" height="316" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-037-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-037-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-037-md.jpg 749w"></figure>
+<p>Meer bepaald, de "Cost"-fasttabs:</p>
+<ul>
+<li>Task Cost: hier zie je enkel te lijnen van de geselecteerde Job Task</li>
+<li>Project Cost: hier zie je alle te leveren projectlijnen</li>
+</ul>
+<h2 id="mcetoc_1d4st0bdd0">Procesoverzicht</h2>
+<p>De logische volgorde is als volgt:</p>
+<ol>
+<li>De projectleider geeft aan op welk tijdstip hij welke goederen nodig heeft</li>
+<li>Artikels worden door de aankoopafdeling ter beschikking gesteld van het project:
+<ul>
+<li>Hetzij door bestelling bij een interne of externe leverancier</li>
+<li>Hetzij door gebruik van beschikbare voorraad</li>
+</ul>
+</li>
+<li>Artikels worden opgenomen in een QC schab van het magazijn</li>
+<li>Artikels worden verzonden naar de klant</li>
+</ol>
+<h3 id="mcetoc_1d4std06k1">PL communiceert behoeften aan aankoop</h3>
+<ul>
+<li>Tijdens de voorbereidende projectaopstart heeft de PL een initiële Exp. Plan Date en Planning date ingevoerd. Deze data werden doorgekopieerd naar de lijnen en vormen de input die de aankoopafdeling gebruikt om tot provisionering over te gaan.</li>
+<li>Nu het project gestart is, kan de projectleider evenwel lijn per lijn aangeven welke goederen hij precies op welk tijdstip nodig heeft. Dit doet hij door aanpassing van het veld "Exp. Plan Date".</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-039.jpg" alt="" width="674" height="236" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-039-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-039-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-039-md.jpg 749w"></figure>
+<h3 id="mcetoc_1d4stdp7j2">Aankoop voorziet de materialen</h3>
+<ul>
+<li>Aankoop zal via Planning Worksheets overgaan tot:
+<ul>
+<li>Ofwel het toewijzen van beschikbare voorraad aan het project</li>
+<li>Ofwel het bestellen van goederen t.b.v. het project</li>
+</ul>
+</li>
+<li>De projectleider kan opvolgen wanneer goederen op een bestelbon staan of reeds in het magazijn liggen, via de kolommen "Qty. on Warehouse" en "Qty on Purchase":</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-041.jpg" alt="" width="1038" height="201" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-041-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-041-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-041-md.jpg 749w"></figure>
+<ul>
+<li>Als blijkt dat de gevraagde leverdatum niet zal kunnen gehaald worden, verandert het veld "Planning Date" op de relevante lijnen van het project. De projectleider zal door vergelijking met het veld "Exp. Plan Date" zien dat hij een leverprobleem heeft en desgevallend de klant moeten inlichten.</li>
+<li>Wanneer met de klant een nieuwe leverdatum is overeengekomen, past de projectleider het veld "Exp. Plan Date" aan.</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-040.jpg" alt="" width="677" height="220" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-040-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-040-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-040-md.jpg 749w"></figure>
+<h3 id="mcetoc_1d4stqvoo3">Artikels worden opgenomen</h3>
+<ul>
+<li>Wanneer goederen beschikbaar en gereserveerd zijn in het magazijn, kan de projectleider deze opnemen, d.w.z. laten verplaatsen naar het projectschab.</li>
+<li>Die geschiedt via de kolom "Qty. to send to QC".</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-042.jpg" alt="" width="1128" height="233" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-042-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-042-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-042-md.jpg 749w"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-043.jpg" alt="" width="571" height="213" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-043-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-043-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-043-md.jpg 749w"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-044.jpg" alt="" width="350" height="144" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-044-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-044-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-044-md.jpg 749w"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-045.jpg" alt="" width="391" height="137" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-045-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-045-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-045-md.jpg 749w"></figure>
+<p>De hoeveelheid staat nu in de kolom "Qty on QC Order":</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-046.jpg" alt="" width="1019" height="272" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-046-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-046-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-046-md.jpg 749w"></figure>
+<p>Deze magazijnbeweging zal vervolgens door een magazijnmedewerker uitgevoerd worden. De projectleider zal merken wanneer de verplaatsing gebeurd is, door te kijken naar de kolom "Qty. sent to QC":</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-047.jpg" alt="" width="784" height="224" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-047-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-047-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-047-md.jpg 749w"></figure>
+<h3 id="mcetoc_1d4sts41k4">Artikels worden geleverd</h3>
+<p>Goederen kunnen enkel uitgeleverd worden nadat ze opgenomen werden in het QC-schab.</p>
+<p>De projectleider kan aangeven dat de goederen niet naar de klant moeten gaan, maar naar een onderaannemer of een ander leveradres van de hoofdklant. Dit gaat zo:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-048.jpg" alt="" width="811" height="183" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-048-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-048-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-048-md.jpg 749w"></figure>
+<ul>
+<li>Voor een levering aan een ander leveradres, pas de kolom "Ship-to Code" aan.</li>
+<li>Voor een levering aan een onderaannemer, vul de kolom "Subcontractor" in.</li>
+<li>Kies tenslotte in de kolom "Send To Code" welke van de mogelijke adressen moet gebruikt worden:
+<ul>
+<li>Job: het gewone leveradres</li>
+<li>Ship-to: het opgegeven alternatief leveradres van de klant</li>
+<li>Subcontractor: de onderaannemer</li>
+</ul>
+</li>
+<li>Het veld Send To Code zal zich overeenkomstig aanpassen:</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-049.jpg" alt="" width="745" height="192" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-049-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-049-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-049-md.jpg 749w"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-050.jpg" alt="" width="738" height="146" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-050-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-050-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-050-md.jpg 749w"></figure>
+<p>Als dit is aangepast, zal de projectleider via het veld "Qty. to transfer to Journal" aangeven dat hij de goederen wil leveren.</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-051.jpg" alt="" width="758" height="204" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-051-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-051-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-051-md.jpg 749w"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-052.jpg" alt="" width="552" height="227" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-052-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-052-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-052-md.jpg 749w"></figure>
+<p>De aangemaakte zendnota kan opgevraagd worden via Navigate &gt; Delivery Notes:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-053.jpg" alt="" width="692" height="168" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-053-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-053-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-053-md.jpg 749w"></figure>
+<p>Deze zendnota moet nu gepost worden om de levering af te werken:</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-054.jpg" alt="" width="846" height="722" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-054-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-054-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-054-md.jpg 749w"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-055.jpg" alt="" width="363" height="236" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-055-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-055-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-055-md.jpg 749w"></figure>
+<p>Goederen die zo uitgeleverd werden, verschijnen nu in de kolom "Qty. Posted":</p>
+<figure class="post__image"><img loading="lazy"  src="http://mvanaken76.github.io/navdocu/media/posts/9/Image-056.jpg" alt="" width="681" height="204" sizes="(max-width: 749px) 100vw, 749px" srcset="http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-056-xs.jpg 300w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-056-sm.jpg 480w ,http://mvanaken76.github.io/navdocu/media/posts/9/responsive/Image-056-md.jpg 749w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
